@@ -1,5 +1,5 @@
 
-Raktdaan
+## Raktdaan
 
 Raktdaan is a comprehensive web platform designed to streamline the process of blood donation by con With the aim of bridging the gap between blood donors and those requiring blood , Raktdaan offers a user-friendly interface that facilitates efficient communication and coordination within the blood donation community.
 
@@ -12,9 +12,9 @@ We would like to express our sincere gratitude to everyone who has contributed t
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#df1f2c](https://via.placeholder.com/10/00b48a?text=+) #df1f2c |
-| Example Color | ![#fff7e6](https://via.placeholder.com/10/00b48a?text=+)#fff7e6 |
+|  | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+|  | ![#df1f2c](https://via.placeholder.com/10/00b48a?text=+) #df1f2c |
+|  | ![#fff7e6](https://via.placeholder.com/10/00b48a?text=+)#fff7e6 |
 
 
 ## FAQ
