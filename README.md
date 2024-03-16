@@ -1,7 +1,7 @@
 
 ## Raktdaan
 
-Raktdaan is a comprehensive web platform designed to streamline the process of blood donation by con With the aim of bridging the gap between blood donors and those requiring blood , Raktdaan offers a user-friendly interface that facilitates efficient communication and coordination within the blood donation community.
+Raktdaan is a comprehensive web platform designed to streamline the process of blood donation by connecting with donors and recipients with the aim of bridging the gap between blood donors and those requiring blood , Raktdaan offers a user-friendly interface that facilitates efficient communication and coordination within the blood donation community.
 
 
 ## Acknowledgements
